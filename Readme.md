@@ -1,4 +1,2 @@
 # Theme Switcher
-
-
-# Live Demo
+# Live Demo : https://naveenmonk.github.io/dark-theme/
