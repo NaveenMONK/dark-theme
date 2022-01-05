@@ -1,5 +1,5 @@
-import * as variables from "/utils/variables.js";
-import * as fun from "/utils/functions.js";
+import * as variables from "./utils/variables.js";
+import * as fun from "./utils/functions.js";
 
 let darkMode = localStorage.getItem("darkMode");
 if(darkMode === 'dark'){
